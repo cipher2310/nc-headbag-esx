@@ -1,0 +1,6 @@
+['head_bag'] = {
+   label = 'Headbag', 
+   weight = 250,
+   stack = true,
+   allowArmed = true
+},
